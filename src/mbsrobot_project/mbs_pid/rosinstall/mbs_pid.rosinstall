@@ -1,0 +1,4 @@
+- git:
+    local-name: mbs_pid
+    uri: 'https://github.com/ykevin/mbs_pid.git
+    version: indigo

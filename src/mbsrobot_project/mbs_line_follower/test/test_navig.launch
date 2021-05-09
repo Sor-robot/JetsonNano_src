@@ -1,0 +1,5 @@
+<launch>
+
+<test test-name="test_velocity"  pkg="mbs_line_follower"  type="test_velocity"  cwd="node"/>
+
+</launch>

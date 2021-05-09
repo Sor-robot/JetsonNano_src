@@ -1,0 +1,7 @@
+<library path="lib/libmbs_follower">
+  <class name="mbs_follower/MbsFollower" type="mbs_follower::MbsFollower" base_class_type="nodelet::Nodelet">
+    <description>
+      The mbsrobot people follower node.
+    </description>
+  </class>
+</library> 
